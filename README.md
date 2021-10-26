@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sushtc
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...JAVA and other languages
+- 🌱 I’m currently learning front end developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sushanth.anu@gmail.com
 
